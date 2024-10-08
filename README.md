@@ -33,6 +33,12 @@ Welcome to an in-depth analysis of Romania's economy through this Tableau dashbo
 
 <img width="1042" alt="image" src="https://github.com/user-attachments/assets/0b1b5375-83de-489b-a52c-e72d1bb54597">
 
+<img width="824" alt="image" src="https://github.com/user-attachments/assets/5e46daa0-0d4d-4f1f-81ce-21bceb227d74">
+
+<img width="764" alt="image" src="https://github.com/user-attachments/assets/be99c3e2-9b17-4463-86bb-a289e0a144a6">
+
+<img width="904" alt="image" src="https://github.com/user-attachments/assets/184b22f6-cb5a-4c59-b0b5-9d586b3ca269">
+
 
 ## Files Included:
 - `Romania_Economy_Dashboard.twbx`: The Tableau Packaged Workbook containing the full dashboard and data.
