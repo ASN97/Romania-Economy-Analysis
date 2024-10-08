@@ -28,6 +28,12 @@ Welcome to an in-depth analysis of Romania's economy through this Tableau dashbo
 2. Open the file in **Tableau Desktop** or **Tableau Reader** to interact with the dashboard.
 3. Explore the various charts and relationships between Romania's economic indicators.
 
+
+## Screenshots
+
+<img width="1042" alt="image" src="https://github.com/user-attachments/assets/0b1b5375-83de-489b-a52c-e72d1bb54597">
+
+
 ## Files Included:
 - `Romania_Economy_Dashboard.twbx`: The Tableau Packaged Workbook containing the full dashboard and data.
 - `Romania_Economy_Analysis.pdf`: A PDF version of the key insights from the dashboard.
